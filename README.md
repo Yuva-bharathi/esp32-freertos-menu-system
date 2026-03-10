@@ -11,3 +11,6 @@ Name: Yuvabharathi Varudharaj
 ✔ Reset and Power-off handling
 ✔ Queue-based inter-task communication
 ✔ Mutex-protected shift register access
+
+
+Simulation link: https://wokwi.com/projects/458106186583516161
