@@ -1,5 +1,5 @@
 /*
-Thinkerbell Labs – Embedded Software Engineer Task
+Embedded Software Engineer Task
 Final Complete Version (All Requirements Implemented)
 Name: Yuvabharathi Varudharaj
 Board: ESP32-S3
